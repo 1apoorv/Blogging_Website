@@ -1,2 +1,2 @@
-# Blogging_Website
-A Simple Blogging Website
+# Resume Webpage
+A Simple Resume Webpage
